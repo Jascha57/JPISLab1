@@ -10,8 +10,7 @@ namespace JPISLab1
     {
         static void Main(string[] args)
         {
-
-            //iiii
+            Console.WriteLine("Hello World");
         }
     }
 }
