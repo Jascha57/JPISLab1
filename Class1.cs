@@ -8,6 +8,6 @@ namespace JPISLab1
 {
     class Class1
     {
-        # Not fun
+        // Not fun
     }
 }
